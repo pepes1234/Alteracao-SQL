@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lucas\\Documents\\Programação\\Alteracao SQL\\Alteracao SQL.csproj": {}
+    "C:\\Users\\user\\Documents\\Programação\\Alteracao SQL\\Alteracao SQL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lucas\\Documents\\Programação\\Alteracao SQL\\Alteracao SQL.csproj": {
+    "C:\\Users\\user\\Documents\\Programação\\Alteracao SQL\\Alteracao SQL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lucas\\Documents\\Programação\\Alteracao SQL\\Alteracao SQL.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\Programação\\Alteracao SQL\\Alteracao SQL.csproj",
         "projectName": "Alteracao SQL",
-        "projectPath": "C:\\Users\\Lucas\\Documents\\Programação\\Alteracao SQL\\Alteracao SQL.csproj",
-        "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lucas\\Documents\\Programação\\Alteracao SQL\\obj\\",
+        "projectPath": "C:\\Users\\user\\Documents\\Programação\\Alteracao SQL\\Alteracao SQL.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\Documents\\Programação\\Alteracao SQL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.406/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
