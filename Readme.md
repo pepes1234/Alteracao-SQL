@@ -17,3 +17,4 @@ O **Alteracao-SQL** é uma ferramenta desenvolvida em C# que lê dados de um arq
    ```bash
    git clone https://github.com/pepes1234/Alteracao-SQL.git
    cd Alteracao-SQL
+   dotnet run
