@@ -6,7 +6,7 @@
 
 ## 💡 Sobre o Projeto
 
-O **Alteracao-SQL** é uma ferramenta desenvolvida em C# que lê dados de um arquivo de texto (`dados.txt`), processa informações relacionadas a membros e igrejas, e gera comandos SQL correspondentes. É útil para automatizar alterações em bancos de dados com base em arquivos de entrada.
+O **Alteracao-SQL** é uma ferramenta desenvolvida em C# que lê dados de um arquivo de texto (`dados.txt`), processa informações relacionadas a membros e igrejas, e gera comandos SQL correspondentes. Foi criado com o intuito de passar dados de um sistema antigo para um novo, isso é feito com o tratamento necessário.
 
 ---
 
