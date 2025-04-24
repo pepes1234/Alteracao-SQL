@@ -10,12 +10,6 @@ O **Alteracao-SQL** é uma ferramenta desenvolvida em C# que lê dados de um arq
 
 ---
 
-## 🖼️ Exemplo de Uso
-
-![Exemplo de uso do Alteracao-SQL](https://raw.githubusercontent.com/pepes1234/Alteracao-SQL/main/assets/exemplo-uso.png)
-
----
-
 ## 🚀 Como Utilizar
 
 1. **Clone o repositório:**
