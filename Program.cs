@@ -7,7 +7,6 @@ class Program
 {
     static void Main()
     {
-        goto es;
         string inputFilePath = @"C:\Users\user\Documents\Programação\Alteracao SQL\dados.txt"; // Caminho do arquivo de entrada
         string outputFilePath = @"C:\Users\user\Documents\Programação\Alteracao SQL\resultado"; // Caminho do arquivo de saída
         List<Igrejas> igrejas = new List<Igrejas>();
